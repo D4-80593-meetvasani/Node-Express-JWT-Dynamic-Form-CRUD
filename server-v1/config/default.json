@@ -1,0 +1,9 @@
+{
+    "server": "localhost",
+    "db": "wpt",
+    "user" : "root",
+    "pwd": "manager",
+    "PORT": 3000,
+    "jwtkey": "Vasani98989898989898989898989898989898Vasani"
+
+}
