@@ -17,30 +17,6 @@ This is a simple Dynamic Form application built with Express.js and MySQL. It pr
 npm install
 ```
 
-
-Certainly! Here's an updated README file based on the changes you've mentioned:
-
-markdown
-Copy code
-# Dynamic Form App
-
-This is a simple Dynamic Form application built with Express.js and MySQL. It provides basic CRUD (Create, Read, Update, Delete) operations for a form. Follow the instructions below to run the application.
-
-## Prerequisites
-- Node.js installed (Download and install from [https://nodejs.org/](https://nodejs.org/))
-- MySQL server installed and running
-
-## Getting Started
-
-1. Clone the repository
-2. Go to the directory
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
 ## Set up the MySQL database:
 Create a database named wpt (or choose a different name, but make sure to update the db field in config/default.json accordingly).
 
