@@ -309,6 +309,13 @@ function getData() {
   helper.send();
 }
 
+function logout() {
+  sessionStorage.removeItem("jwtToken");
+  
+  window.location.href = "login.html";
+}
+
+
 
 // function getData() {
 //   // debugger;
